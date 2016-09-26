@@ -11,4 +11,7 @@ une fois ce plugin activé l'utilisateur peut faire un clique droit sur n'import
 ### **Plugin : Theme_Creator** 
 une fois ce plugin activé, l'utilisateur pourra créer des thèmes pour son explorateur en modifiant certains styles
 
+### **Vidéo de présentation** 
+<center>
 [![Video de présentation du projet](https://img.youtube.com/vi/_EhiVZLluKQ/0.jpg)](https://www.youtube.com/watch?v=_EhiVZLluKQ)
+</center>
